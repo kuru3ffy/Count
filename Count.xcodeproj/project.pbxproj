@@ -15,6 +15,7 @@
 		16F273D52646533000E824FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F273D32646533000E824FB /* LaunchScreen.storyboard */; };
 		16F273E02646533000E824FB /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F273DF2646533000E824FB /* CountTests.swift */; };
 		16F273EB2646533000E824FB /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F273EA2646533000E824FB /* CountUITests.swift */; };
+		16F273F9264655A200E824FB /* flowerBacground.png in Resources */ = {isa = PBXBuildFile; fileRef = 16F273F8264655A200E824FB /* flowerBacground.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		16F273E62646533000E824FB /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16F273EA2646533000E824FB /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		16F273EC2646533000E824FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16F273F8264655A200E824FB /* flowerBacground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flowerBacground.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				16F273CA2646532800E824FB /* SceneDelegate.swift */,
 				16F273CC2646532800E824FB /* ViewController.swift */,
 				16F273CE2646532800E824FB /* Main.storyboard */,
+				16F273F8264655A200E824FB /* flowerBacground.png */,
 				16F273D12646533000E824FB /* Assets.xcassets */,
 				16F273D32646533000E824FB /* LaunchScreen.storyboard */,
 				16F273D62646533000E824FB /* Info.plist */,
@@ -233,6 +236,7 @@
 			files = (
 				16F273D52646533000E824FB /* LaunchScreen.storyboard in Resources */,
 				16F273D22646533000E824FB /* Assets.xcassets in Resources */,
+				16F273F9264655A200E824FB /* flowerBacground.png in Resources */,
 				16F273D02646532800E824FB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
